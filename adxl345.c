@@ -16,7 +16,8 @@
  * 	Created by: Carlos Pereira, Ícaro Nascimento and Rodrigo Sapucaia
  * 	Released into the public domain.
  */
-#include <msp430.h>
+#include <msp430g2553.h>
+#include "adxl.h"
 
 #define DATAX0 0x32
 #define DATAX1 0x33
